@@ -1,0 +1,16 @@
+{
+    "intents":[
+        {
+            "tag":"greeting",
+            "patterns": ["Hi", "Hello"],
+            "response": ["Hello, How many I help you?"]
+
+        },
+        {
+            "tag":"ending",
+            "patterns": ["bye", "See you again"],
+            "response": ["Have a great time!", "Bye"]
+
+        }
+    ]
+}
